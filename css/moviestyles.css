@@ -1,0 +1,21 @@
+body{
+    font-size: 18px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: beige;
+    color: black;
+}
+ol{
+    font-weight: bold;
+}
+ul{
+    font-style: italic;
+}
+li{
+    color: rgb(164, 120, 62);
+}
+a{
+    font-size: 18px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: black;
+    font-style: normal;
+}

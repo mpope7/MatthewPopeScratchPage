@@ -1,0 +1,55 @@
+
+.header {
+    top: 5px;
+    left: 5px;
+    right: 5px;
+    height: 100px;
+    border: solid 2px black;
+    position: absolute;
+}
+.movie1 {
+    top: 114px;
+    left: 5px;
+    right: 5px;
+    height: 100px;
+    border: solid 2px black;
+}
+.movie2 {
+    top: 228px;
+    left: 5px;
+    right: 5px;
+    height: 100px;
+    border: solid 2px black;
+}
+.movie3 {
+    top: 342px;
+    left: 5px;
+    right: 5px;
+    height: 100px;
+    border: solid 2px black;
+}
+.movie4 {
+    top: 456px;
+    left: 5px;
+    right: 5px;
+    height: 100px;
+    border: solid 2px black;
+}
+.movie5 {
+    top: 570px;
+    left: 5px;
+    right: 5px;
+    height: 100px;
+    border: solid 2px black;
+}
+img{
+    float: right;
+    height: 100px;
+    width: auto;
+}
+.footer{
+    text-align: center;
+    position: relative;
+    padding-top: 20px;
+    color: rgb(175, 132, 75);
+}
